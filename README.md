@@ -40,3 +40,6 @@ An intelligent DevOps observability platform combining real-time telemetry inges
 
 ## Author
 Developed as a prototype implementation for the research paper: *An Intelligent DevOps Observability Platform with Automated Self-Healing Mechanisms for Cloud Infrastructure.*
+
+##output
+![alt text](image.png)
